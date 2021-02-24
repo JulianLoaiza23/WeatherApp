@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CDIiFAIQ0TxdJDYK7IGGwqkAJT1wnOfVozVP3w0YwqTtqs8cXPUpcnvvRrZnX9ru0z+kN8vhRZ8u/gkS6o64Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maill\\source\\repos\\WeatherApp\\WeatherApp\\WeatherApp.iOS\\WeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
